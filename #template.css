@@ -1,0 +1,14 @@
+.sidebar a {
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    color: black;
+    border: 1px solid #ddd; /* Tambahkan border ini */
+    margin-bottom: 5px; /* Tambahkan margin antar menu */
+  }
+  
+  .sidebar a:hover {
+    background-color: #ddd;
+    border-color: #aaa; /* Ganti warna border saat hover */
+  }
+  
